@@ -12,11 +12,11 @@ Agile Design is needed because requirements constantly change, they're the most 
 
 The theory of Agile Design states that you should only apply these principles when symptoms of poor design (AKA code smells) are identified. The symptoms include:
 
-- _[Rigidity](./rigidity.md)_ - The design is hard to change
-- _[Fragility](./fragility.md)_ - The design is easy to break
-- _[Immobility](./immobility.md)_ - The design is hard to re-use
+- _[Rigidity](./rigidity-a-code-smell.md)_ - The design is hard to change
+- _[Fragility](./fragility-a-code-smell.md)_ - The design is easy to break
+- _[Immobility](./immobility-a-code-smell.md)_ - The design is hard to re-use
 - _[Viscosity](./viscosity-a-code-smell.md)_ - It's hard to do the right thing
-- _Needless Complexity_ - Overdesign
+- _[Needless Complexity](./needless-complexity-a-code-smell.md)_ - Overdesign
 - _Needless Repitition_ - Mouse abuse, copy-paste problems
 - _Opacity_ - Disorganised expression, hard-to-understand code
 
